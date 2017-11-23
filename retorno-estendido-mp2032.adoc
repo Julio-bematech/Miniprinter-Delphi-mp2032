@@ -8,8 +8,6 @@
 :source-highlighter: coderay
 :coderay-linenums-mode: inline
 
-image::images/MP4200.jpg[]
-
 == Introdução
 O material abaixo busca fornecer orientação detalhada para a utilização de comandos diretos para captura de status das impressoras Bematech. Ela permite ao desenvolvedor validar possíveis problemas de impressão e também situações de erros na impressora.
 
